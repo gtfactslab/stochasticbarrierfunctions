@@ -6,7 +6,7 @@ E-mail: csantoyo@gatech.edu
 
 If you have any questions, please e-mail the author at the e-mail above.
 
-# Required Software:
+## Required Software: ##
 * MATLAB
 * SOSTOOLS (https://www.cds.caltech.edu/sostools/)
 * SDPT3 (http://www.math.nus.edu.sg/~mattohkc/sdpt3.html)
