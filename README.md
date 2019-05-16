@@ -12,3 +12,7 @@ If you have any questions, please e-mail the author at the e-mail above.
 * SDPT3 (http://www.math.nus.edu.sg/~mattohkc/sdpt3.html)
 
 Note: These case studes were constructed using MATLAB 2018. Additionally, the symbolic toolbox is required. It is possible to execute the code without the symbolic toolbox (see SOSTOOLs manual for details).
+
+## Case Study 1: ##
+
+## Case Study 2: ##
