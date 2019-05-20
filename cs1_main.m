@@ -15,7 +15,7 @@
 
 %% Case Study 1: Verification 
 % Run the Monte Carlo Simulation
-run('montecarlo.m');
+run('cs1_montecarlo.m');
 
 % Run the Verification Algorith
 run('cs1algo1_CCTA.m');
