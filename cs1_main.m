@@ -17,12 +17,11 @@
 % Run the Monte Carlo Simulation
 run('montecarlo.m');
 
-% Run the Verification Algorithm
+% Run the Verification Algorith
 run('cs1algo1_CCTA.m');
 
 
 %% Case Study 1: Verification & Control
-
 % Run the Control & Verification Algorithm
 run('cs1algo3_CCTA.m');
 
