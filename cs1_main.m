@@ -18,11 +18,11 @@
 run('montecarlo.m');
 
 % Run the Verification Algorithm
-run('CCTA_cs1algo1.m');
+run('cs1algo1_CCTA.m');
 
 
 %% Case Study 1: Verification & Control
 
 % Run the Control & Verification Algorithm
-run('CCTA_cs1algo3.m');
+run('cs1algo3_CCTA.m');
 
