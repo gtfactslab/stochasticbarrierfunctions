@@ -22,5 +22,5 @@ cs2_main.m:  <br />
 * Running this file will run the algorithm which was used to produce the results of this paper. The required toolboxes are mentioned above. You may run the individual dependencies separately to get a more careful look at the corresponding results. These results are for the 2-D stochastic dynamics. 
 
 ## Case Study 3: ##
-cse_main.m:  <br />
+cs3_main.m:  <br />
 * Running this file will run the algorithm which was used to produce the results of the discrete-time example in the journal paper _(in submission)_. The required toolboxes are mentioned above. You may run the individual dependencies separately to get a more careful look at the corresponding results. These results are for the 2 state population growth model. 
