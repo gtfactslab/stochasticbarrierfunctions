@@ -1,5 +1,5 @@
-%           Main file for generating plots for the first case study in the 
-%           CCTA paper. 
+%           Main file for generating plots for the third case study in the 
+%           Automatica Paper (in submission). 
 %               
 % Paper:    A BarrierFunction Approach to Finite-Time Stochastic System Verification and Control
 %
