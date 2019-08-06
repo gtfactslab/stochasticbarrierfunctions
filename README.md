@@ -1,5 +1,5 @@
 # Stochastic Control & Verification via Barrier Functions
-This repository contains the code for the case studies in the paper "Verification  and  Control  for  Finite-Time  Safety  ofStochastic  Systems  via  Barrier  Functions" CCTA 2019. 
+This repository contains the code for the case studies in the paper "Verification  and  Control  for  Finite-Time  Safety  ofStochastic  Systems  via  Barrier  Functions" (CCTA 2019) and "A Barrier Function Approach to Finite-Time StochasticSystem Verification and Control" _(in submission)_
 
 Author: Cesar Santoyo <br />
 E-mail: csantoyo@gatech.edu
@@ -19,4 +19,8 @@ cs1_main.m:  <br />
 
 ## Case Study 2: ##
 cs2_main.m:  <br />
-* Running this file will run the algorith which was used to produce the results of this paper. The required toolboxes are mentioned above. You may run the individual dependencies separately to get a more careful look at the corresponding results. These results are for the 2-D stochastic dynamics. 
+* Running this file will run the algorithm which was used to produce the results of this paper. The required toolboxes are mentioned above. You may run the individual dependencies separately to get a more careful look at the corresponding results. These results are for the 2-D stochastic dynamics. 
+
+## Case Study 3: ##
+cs2_main.m:  <br />
+* Running this file will run the algorithm which was used to produce the results of the discrete-time example in the journal paper _(in submission)_. The required toolboxes are mentioned above. You may run the individual dependencies separately to get a more careful look at the corresponding results. These results are for the 2 state population growth model. 
