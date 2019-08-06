@@ -1,5 +1,5 @@
 # Stochastic Control & Verification via Barrier Functions
-This repository contains the code for the case studies in the paper "Verification  and  Control  for  Finite-Time  Safety  ofStochastic  Systems  via  Barrier  Functions" (CCTA 2019) and "A Barrier Function Approach to Finite-Time StochasticSystem Verification and Control" _(in submission)_
+This repository contains the code for the case studies in the paper "Verification  and  Control  for  Finite-Time  Safety  of Stochastic  Systems  via  Barrier  Functions" (CCTA 2019) and "A Barrier Function Approach to Finite-Time StochasticSystem Verification and Control" _(in submission)_
 
 Author: Cesar Santoyo <br />
 E-mail: csantoyo@gatech.edu
